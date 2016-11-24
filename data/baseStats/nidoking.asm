@@ -7,7 +7,7 @@ db 75 ; base special
 db POISON ; species type 1
 db GROUND ; species type 2
 db 45 ; catch rate
-db 195 ; base exp yield
+db 226 ; base exp yield
 INCBIN "pic/bmon/nidoking.pic",0,1 ; 77, sprite dimensions
 dw NidokingPicFront
 dw NidokingPicBack

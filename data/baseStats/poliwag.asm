@@ -7,7 +7,7 @@ db 40 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 255 ; catch rate
-db 77 ; base exp yield
+db 89 ; base exp yield
 INCBIN "pic/bmon/poliwag.pic",0,1 ; 55, sprite dimensions
 dw PoliwagPicFront
 dw PoliwagPicBack

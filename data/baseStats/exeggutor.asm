@@ -7,7 +7,7 @@ db 125 ; base special
 db GRASS ; species type 1
 db PSYCHIC ; species type 2
 db 45 ; catch rate
-db 212 ; base exp yield
+db 246 ; base exp yield
 INCBIN "pic/bmon/exeggutor.pic",0,1 ; 77, sprite dimensions
 dw ExeggutorPicFront
 dw ExeggutorPicBack

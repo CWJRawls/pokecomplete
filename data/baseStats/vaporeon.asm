@@ -7,7 +7,7 @@ db 110 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
-db 196 ; base exp yield
+db 227 ; base exp yield
 INCBIN "pic/bmon/vaporeon.pic",0,1 ; 66, sprite dimensions
 dw VaporeonPicFront
 dw VaporeonPicBack

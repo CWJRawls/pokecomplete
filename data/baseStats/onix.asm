@@ -7,7 +7,7 @@ db 30 ; base special
 db ROCK ; species type 1
 db GROUND ; species type 2
 db 45 ; catch rate
-db 108 ; base exp yield
+db 125 ; base exp yield
 INCBIN "pic/bmon/onix.pic",0,1 ; 77, sprite dimensions
 dw OnixPicFront
 dw OnixPicBack

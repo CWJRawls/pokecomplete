@@ -7,7 +7,7 @@ db 35 ; base special
 db FIGHTING ; species type 1
 db FIGHTING ; species type 2
 db 190 ; catch rate
-db 74 ; base exp yield
+db 86 ; base exp yield
 INCBIN "pic/bmon/mankey.pic",0,1 ; 55, sprite dimensions
 dw MankeyPicFront
 dw MankeyPicBack

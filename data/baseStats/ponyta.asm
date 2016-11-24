@@ -7,7 +7,7 @@ db 65 ; base special
 db FIRE ; species type 1
 db FIRE ; species type 2
 db 190 ; catch rate
-db 152 ; base exp yield
+db 176 ; base exp yield
 INCBIN "pic/bmon/ponyta.pic",0,1 ; 66, sprite dimensions
 dw PonytaPicFront
 dw PonytaPicBack

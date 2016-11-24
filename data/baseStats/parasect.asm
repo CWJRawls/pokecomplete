@@ -7,7 +7,7 @@ db 80 ; base special
 db BUG ; species type 1
 db GRASS ; species type 2
 db 75 ; catch rate
-db 128 ; base exp yield
+db 148 ; base exp yield
 INCBIN "pic/bmon/parasect.pic",0,1 ; 77, sprite dimensions
 dw ParasectPicFront
 dw ParasectPicBack

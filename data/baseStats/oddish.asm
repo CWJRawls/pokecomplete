@@ -7,7 +7,7 @@ db 75 ; base special
 db GRASS ; species type 1
 db POISON ; species type 2
 db 255 ; catch rate
-db 78 ; base exp yield
+db 90 ; base exp yield
 INCBIN "pic/bmon/oddish.pic",0,1 ; 55, sprite dimensions
 dw OddishPicFront
 dw OddishPicBack

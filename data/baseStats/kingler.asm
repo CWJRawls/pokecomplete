@@ -7,7 +7,7 @@ db 50 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 60 ; catch rate
-db 206 ; base exp yield
+db 239 ; base exp yield
 INCBIN "pic/bmon/kingler.pic",0,1 ; 77, sprite dimensions
 dw KinglerPicFront
 dw KinglerPicBack

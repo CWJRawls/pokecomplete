@@ -7,8 +7,8 @@ LoneMoves:
 ; first byte:  pokemon in the trainer's party that gets the move
 ; second byte: move
 ; unterminated
-	db 1,BIDE
-	db 1,BUBBLEBEAM
+	db 4,BIDE
+	db 4,BUBBLEBEAM
 	db 2,THUNDERBOLT
 	db 2,MEGA_DRAIN
 	db 3,TOXIC

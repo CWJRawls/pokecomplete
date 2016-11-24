@@ -7,7 +7,7 @@ db 80 ; base special
 db BUG ; species type 1
 db FLYING ; species type 2
 db 45 ; catch rate
-db 160 ; base exp yield
+db 185 ; base exp yield
 INCBIN "pic/bmon/butterfree.pic",0,1 ; 77, sprite dimensions
 dw ButterfreePicFront
 dw ButterfreePicBack
