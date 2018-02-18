@@ -29,18 +29,42 @@ _OaksLabCharmanderText::
 	text "So! You want the"
 	line "fire #MON,"
 	cont "CHARMANDER?"
+
+	IF DEF(_BLUE)
+	para "Oops!"
+	line "This #MON"
+	cont "appears to be"
+	cont "a DITTO!"
+	ENDC
+
 	done
 
 _OaksLabSquirtleText::
 	text "So! You want the"
 	line "water #MON,"
 	cont "SQUIRTLE?"
+
+	IF DEF(_BLUE)
+	para "Oops!"
+	line "This #MON"
+	cont "appears to be"
+	cont "a DITTO!"
+	ENDC
+
 	done
 
 _OaksLabBulbasaurText::
 	text "So! You want the"
 	line "plant #MON,"
 	cont "BULBASAUR?"
+
+	IF DEF(_BLUE)
+	para "Oops!"
+	line "This #MON"
+	cont "appears to be"
+	cont "a DITTO!"
+	ENDC
+
 	done
 
 _OaksLabMonEnergeticText::

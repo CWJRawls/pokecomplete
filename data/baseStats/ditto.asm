@@ -1,7 +1,7 @@
 db DEX_DITTO ; pokedex id
-db 55 ; base hp
-db 55 ; base attack
-db 55 ; base defense
+db 75 ; base hp
+db 65 ; base attack
+db 65 ; base defense
 db 100 ; base speed
 db 100 ; base special
 db NORMAL ; species type 1
@@ -16,7 +16,7 @@ db TRANSFORM
 db 0
 db 0
 db 0
-db 0 ; growth rate
+db 3 ; growth rate
 ; learnset
 	tmlearn 0
 	tmlearn 0
