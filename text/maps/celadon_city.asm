@@ -1,6 +1,6 @@
 _CeladonCityText1::
 	text "I got my KOFFING"
-	line "in CINNABAR!"
+	line "on CINNABAR!"
 
 	para "It's nice, but it"
 	line "breathes poison"
@@ -147,6 +147,6 @@ _CeladonCityText17::
 
 _CeladonCityText18::
 	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	line "Ripping You Off"
+	cont "since 1997!"
 	done

@@ -7,7 +7,7 @@ db 60 ; base special
 db ROCK ; species type 1
 db FLYING ; species type 2
 db 45 ; catch rate
-db 234 ; base exp yield
+db 198 ; base exp yield
 INCBIN "pic/bmon/aerodactyl.pic",0,1 ; 77, sprite dimensions
 dw AerodactylPicFront
 dw AerodactylPicBack

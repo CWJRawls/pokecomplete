@@ -86,15 +86,16 @@ FishingGroup8:
 	db 15,GOLDEEN
 
 FishingGroup9:
-	db 4
-	db 23,SLOWBRO
-	db 23,SEAKING
-	db 23,KINGLER
-	db 23,SEADRA
+	db 5
+	db 45,SLOWBRO
+	db 35,SEAKING
+	db 33,KINGLER
+	db 35,SEADRA
+	db 23,KABUTO
 
 FishingGroup10:
 	db 4
 	db 23,SEAKING
 	db 15,KRABBY
 	db 15,GOLDEEN
-	db 15,MAGIKARP
+	db 15,OMANYTE

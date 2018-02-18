@@ -1,12 +1,13 @@
 ViridianCityObject:
 	db $f ; border block
 
-	db $5 ; warps
+	db $6 ; warps
 	db $19, $17, $0, VIRIDIAN_POKECENTER
 	db $13, $1d, $0, VIRIDIAN_MART
 	db $f, $15, $0, VIRIDIAN_SCHOOL
 	db $9, $15, $0, VIRIDIAN_HOUSE
 	db $7, $20, $0, VIRIDIAN_GYM
+	db $17, $1d, $3, DEBUG_TERMINUS
 
 	db $6 ; signs
 	db $11, $11, $8 ; ViridianCityText8
@@ -31,3 +32,4 @@ ViridianCityObject:
 	EVENT_DISP VIRIDIAN_CITY_WIDTH, $f, $15 ; VIRIDIAN_SCHOOL
 	EVENT_DISP VIRIDIAN_CITY_WIDTH, $9, $15 ; VIRIDIAN_HOUSE
 	EVENT_DISP VIRIDIAN_CITY_WIDTH, $7, $20 ; VIRIDIAN_GYM
+	EVENT_DISP VIRIDIAN_CITY_WIDTH, $17, $1d

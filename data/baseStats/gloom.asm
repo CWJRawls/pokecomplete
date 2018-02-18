@@ -7,7 +7,7 @@ db 85 ; base special
 db GRASS ; species type 1
 db POISON ; species type 2
 db 120 ; catch rate
-db 153 ; base exp yield
+db 130 ; base exp yield
 INCBIN "pic/bmon/gloom.pic",0,1 ; 66, sprite dimensions
 dw GloomPicFront
 dw GloomPicBack

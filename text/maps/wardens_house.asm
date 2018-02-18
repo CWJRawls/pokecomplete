@@ -74,10 +74,10 @@ _HM04NoRoomText::
 
 _FuchsiaHouse2Text_75176::
 	text "#MON photos"
-	line "and fossils."
+	line "and porn."
 	done
 
 _FuchsiaHouse2Text_7517b::
 	text "Old #MON"
-	line "merchandise."
+	line "porn."
 	done

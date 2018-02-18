@@ -1,13 +1,14 @@
 PlateauMons3:
 	db $0F
-	db 24,MACHOP
-	db 26,GEODUDE
-	db 22,ZUBAT
-	db 42,ONIX
-	db 40,VENOMOTH
-	db 45,ONIX
-	db 43,GRAVELER
-	db 41,GOLBAT
-	db 42,MACHOKE
-	db 45,MACHOKE
+	db 32,MACHOP
+	db 34,GEODUDE
+	db 29,ZUBAT
+	db 55,ONIX
+	db 52,VENOMOTH
+	db 59,ONIX
+	db 56,GRAVELER
+	db 54,GOLBAT
+	db 55,MACHOKE
+	db 59,MACHOKE
+	db 32,MR_MIME
 	db $00

@@ -1,13 +1,13 @@
 db DEX_FARFETCHD ; pokedex id
-db 52 ; base hp
-db 65 ; base attack
-db 55 ; base defense
-db 60 ; base speed
+db 75 ; base hp
+db 75 ; base attack
+db 65 ; base defense
+db 175 ; base speed
 db 58 ; base special
 db NORMAL ; species type 1
 db FLYING ; species type 2
 db 45 ; catch rate
-db 109 ; base exp yield
+db 92 ; base exp yield
 INCBIN "pic/bmon/farfetchd.pic",0,1 ; 66, sprite dimensions
 dw FarfetchdPicFront
 dw FarfetchdPicBack

@@ -2,8 +2,9 @@ _ViridianForestText1::
 	text "I came here with"
 	line "some friends!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "We're getting"
+	line "drunk in the"
+	cont "woods!"
 	done
 
 _ViridianForestBattleText1::
@@ -38,7 +39,7 @@ _ViridianForestEndBattleText2::
 _ViridianFrstAfterBattleText2::
 	text "Darn! I'm going"
 	line "to catch some"
-	cont "stronger ones!"
+	cont "more Kakunas!"
 	done
 
 _ViridianForestBattleText3::

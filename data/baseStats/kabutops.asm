@@ -7,7 +7,7 @@ db 70 ; base special
 db ROCK ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
-db 201 ; base exp yield
+db 170 ; base exp yield
 INCBIN "pic/bmon/kabutops.pic",0,1 ; 66, sprite dimensions
 dw KabutopsPicFront
 dw KabutopsPicBack

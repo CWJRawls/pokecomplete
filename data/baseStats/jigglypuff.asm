@@ -7,7 +7,7 @@ db 25 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 170 ; catch rate
-db 88 ; base exp yield
+db 74 ; base exp yield
 INCBIN "pic/bmon/jigglypuff.pic",0,1 ; 55, sprite dimensions
 dw JigglypuffPicFront
 dw JigglypuffPicBack

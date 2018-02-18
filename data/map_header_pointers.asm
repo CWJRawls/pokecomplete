@@ -105,11 +105,11 @@ MapHeaderPointers::
 	dw SSAnne8_h
 	dw SSAnne9_h
 	dw SSAnne10_h
-	dw Lance_h ; unused
+	dw MewIslandEntry_h ; Entry Cave to Mew's Island
 	dw Lance_h ; unused
 	dw Lance_h ; unused
 	dw VictoryRoad1_h
-	dw Lance_h ; unused
+	dw DebugTerminus_h ; Debugging Map
 	dw Lance_h ; unused ;id=110
 	dw Lance_h ; unused
 	dw Lance_h ; unused

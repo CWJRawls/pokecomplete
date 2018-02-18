@@ -7,7 +7,7 @@ db 45 ; base special
 db GROUND ; species type 1
 db GROUND ; species type 2
 db 255 ; catch rate
-db 94 ; base exp yield
+db 79 ; base exp yield
 INCBIN "pic/bmon/diglett.pic",0,1 ; 55, sprite dimensions
 dw DiglettPicFront
 dw DiglettPicBack

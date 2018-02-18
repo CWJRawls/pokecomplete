@@ -1,13 +1,13 @@
 db DEX_PARASECT ; pokedex id
-db 60 ; base hp
+db 70 ; base hp
 db 95 ; base attack
 db 80 ; base defense
-db 30 ; base speed
+db 70 ; base speed
 db 80 ; base special
 db BUG ; species type 1
 db GRASS ; species type 2
 db 75 ; catch rate
-db 148 ; base exp yield
+db 125 ; base exp yield
 INCBIN "pic/bmon/parasect.pic",0,1 ; 77, sprite dimensions
 dw ParasectPicFront
 dw ParasectPicBack

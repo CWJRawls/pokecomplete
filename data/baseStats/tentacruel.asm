@@ -7,7 +7,7 @@ db 120 ; base special
 db WATER ; species type 1
 db POISON ; species type 2
 db 60 ; catch rate
-db 238 ; base exp yield
+db 202 ; base exp yield
 INCBIN "pic/bmon/tentacruel.pic",0,1 ; 66, sprite dimensions
 dw TentacruelPicFront
 dw TentacruelPicBack

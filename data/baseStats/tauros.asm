@@ -7,7 +7,7 @@ db 70 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 45 ; catch rate
-db 245 ; base exp yield
+db 208 ; base exp yield
 INCBIN "pic/bmon/tauros.pic",0,1 ; 77, sprite dimensions
 dw TaurosPicFront
 dw TaurosPicBack

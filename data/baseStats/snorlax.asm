@@ -7,7 +7,7 @@ db 65 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 25 ; catch rate
-db 178 ; base exp yield
+db 151 ; base exp yield
 INCBIN "pic/bmon/snorlax.pic",0,1 ; 77, sprite dimensions
 dw SnorlaxPicFront
 dw SnorlaxPicBack

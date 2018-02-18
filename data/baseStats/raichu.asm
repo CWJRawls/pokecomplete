@@ -7,7 +7,7 @@ db 90 ; base special
 db ELECTRIC ; species type 1
 db ELECTRIC ; species type 2
 db 75 ; catch rate
-db 141 ; base exp yield
+db 119 ; base exp yield
 INCBIN "pic/bmon/raichu.pic",0,1 ; 77, sprite dimensions
 dw RaichuPicFront
 dw RaichuPicBack

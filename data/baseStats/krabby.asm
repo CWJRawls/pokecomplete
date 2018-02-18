@@ -7,7 +7,7 @@ db 25 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 225 ; catch rate
-db 133 ; base exp yield
+db 113 ; base exp yield
 INCBIN "pic/bmon/krabby.pic",0,1 ; 55, sprite dimensions
 dw KrabbyPicFront
 dw KrabbyPicBack

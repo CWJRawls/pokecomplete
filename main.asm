@@ -3164,6 +3164,16 @@ INCLUDE "scripts/billshouse.asm"
 INCLUDE "data/mapObjects/billshouse.asm"
 BillsHouseBlocks: INCBIN "maps/billshouse.blk"
 
+INCLUDE "data/mapHeaders/mew_island_entry.asm"
+INCLUDE "scripts/mew_island_entry.asm"
+INCLUDE "data/mapObjects/mew_island_entry.asm"
+MewIslandEntryBlocks: INCBIN "maps/mew_island_entry.blk"
+
+INCLUDE "data/mapHeaders/debug_terminus.asm"
+INCLUDE "scripts/debug_terminus.asm"
+INCLUDE "data/mapObjects/debug_terminus.asm"
+DebugTerminusBlocks: INCBIN "maps/debug_terminus.blk"
+
 INCLUDE "engine/menu/oaks_pc.asm"
 
 INCLUDE "engine/hidden_object_functions7.asm"

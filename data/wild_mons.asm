@@ -104,7 +104,7 @@ WildDataPointers:
 	dw NoMons
 	dw NoMons
 	dw NoMons
-	dw NoMons
+	dw MewEntryMons
 	dw NoMons
 	dw NoMons
 	dw PlateauMons1
@@ -319,3 +319,4 @@ INCLUDE "data/wildPokemon/victoryroad2.asm"
 INCLUDE "data/wildPokemon/victoryroad3.asm"
 INCLUDE "data/wildPokemon/victoryroad1.asm"
 INCLUDE "data/wildPokemon/diglettscave.asm"
+INCLUDE "data/wildPokemon/mew_island_entry.asm"

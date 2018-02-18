@@ -105,11 +105,11 @@ MapHeaderBanks:
 	db BANK(SSAnne8_h)
 	db BANK(SSAnne9_h)
 	db BANK(SSAnne10_h)
-	db $1D ;unused
+	db BANK(MewIslandEntry_h) ;Entry to Mew's Island
 	db $1D ;unused
 	db $1D ;unused
 	db BANK(VictoryRoad1_h)
-	db $1D ;unused
+	db BANK(DebugTerminus_h) ;debugging map
 	db $1D ;unused
 	db $1D ;unused
 	db $1D ;unused

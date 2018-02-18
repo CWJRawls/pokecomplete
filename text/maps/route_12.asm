@@ -46,7 +46,7 @@ _Route12EndBattleText2::
 _Route12AfterBattleText2::
 	text "With a better ROD,"
 	line "I could catch"
-	cont "better #MON!"
+	cont "better Men!"
 	done
 
 _Route12BattleText3::
@@ -135,5 +135,6 @@ _Route12Text11::
 	done
 
 _Route12Text12::
-	text "SPORT FISHING AREA"
+	text "MAGIKARP"
+	line "FISHING AREA"
 	done

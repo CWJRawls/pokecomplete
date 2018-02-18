@@ -7,7 +7,7 @@ db 90 ; base special
 db ROCK ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
-db 139 ; base exp yield
+db 118 ; base exp yield
 INCBIN "pic/bmon/omanyte.pic",0,1 ; 55, sprite dimensions
 dw OmanytePicFront
 dw OmanytePicBack

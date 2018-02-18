@@ -17,11 +17,11 @@ _OakWalksUpText::
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "I'm eating"
+	line "paste today!"
 
-	para "When they get"
-	line "strong, they can"
+	para "When I get"
+	line "older, it can"
 	cont "protect me!"
 	done
 
@@ -51,5 +51,6 @@ _PalletTownText6::
 	done
 
 _PalletTownText7::
-	text $53,"'s house "
+	text "That dick's"
+	line "house "
 	done

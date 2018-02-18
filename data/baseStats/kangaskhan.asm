@@ -7,7 +7,7 @@ db 40 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 45 ; catch rate
-db 203 ; base exp yield
+db 172 ; base exp yield
 INCBIN "pic/bmon/kangaskhan.pic",0,1 ; 77, sprite dimensions
 dw KangaskhanPicFront
 dw KangaskhanPicBack

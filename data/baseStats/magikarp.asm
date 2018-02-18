@@ -7,7 +7,7 @@ db 20 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 255 ; catch rate
-db 23 ; base exp yield
+db 19 ; base exp yield
 INCBIN "pic/bmon/magikarp.pic",0,1 ; 66, sprite dimensions
 dw MagikarpPicFront
 dw MagikarpPicBack

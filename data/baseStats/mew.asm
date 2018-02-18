@@ -1,14 +1,14 @@
 MewBaseStats:
 db DEX_MEW ; pokedex id
-db 100 ; base hp
-db 100 ; base attack
-db 100 ; base defense
-db 100 ; base speed
-db 100 ; base special
+db 255 ; base hp
+db 255 ; base attack
+db 255 ; base defense
+db 255 ; base speed
+db 255 ; base special
 db PSYCHIC ; species type 1
 db PSYCHIC ; species type 2
-db 45 ; catch rate
-db 74 ; base exp yield
+db 254 ; catch rate
+db 62 ; base exp yield
 INCBIN "pic/bmon/mew.pic",0,1 ; 55, sprite dimensions
 dw MewPicFront
 dw MewPicBack

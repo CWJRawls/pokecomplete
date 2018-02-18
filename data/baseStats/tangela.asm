@@ -7,7 +7,7 @@ db 100 ; base special
 db GRASS ; species type 1
 db GRASS ; species type 2
 db 45 ; catch rate
-db 192 ; base exp yield
+db 163 ; base exp yield
 INCBIN "pic/bmon/tangela.pic",0,1 ; 66, sprite dimensions
 dw TangelaPicFront
 dw TangelaPicBack

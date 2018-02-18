@@ -1,0 +1,13 @@
+MewEntryMons:
+	db $14
+	db 80,NIDOKING
+	db 80,NIDOQUEEN
+	db 90,DRAGONITE
+	db 82,KABUTOPS
+	db 84,MACHAMP
+	db 82,GOLEM
+	db 84,ONIX
+	db 90,CHARIZARD
+	db 88,AERODACTYL
+	db 86,DUGTRIO
+	db $00

@@ -7,7 +7,7 @@ db 75 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 45 ; catch rate
-db 151 ; base exp yield
+db 128 ; base exp yield
 INCBIN "pic/bmon/porygon.pic",0,1 ; 66, sprite dimensions
 dw PorygonPicFront
 dw PorygonPicBack

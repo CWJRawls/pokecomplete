@@ -1,12 +1,12 @@
 ItemPrices:
-	money 0     ; MASTER_BALL
-	money 1200  ; ULTRA_BALL
-	money 600   ; GREAT_BALL
-	money 200   ; POKE_BALL
+	money 10000     ; MASTER_BALL
+	money 400  ; ULTRA_BALL
+	money 200   ; GREAT_BALL
+	money 50   ; POKE_BALL
 	money 0     ; TOWN_MAP
 	money 0     ; BICYCLE
 	money 0     ; SURFBOARD
-	money 1000  ; SAFARI_BALL
+	money 10  ; SAFARI_BALL
 	money 0     ; POKEDEX
 	money 0     ; MOON_STONE
 	money 100   ; ANTIDOTE
@@ -15,10 +15,10 @@ ItemPrices:
 	money 200   ; AWAKENING
 	money 200   ; PARLYZ_HEAL
 	money 3000  ; FULL_RESTORE
-	money 2500  ; MAX_POTION
-	money 1500  ; HYPER_POTION
-	money 700   ; SUPER_POTION
-	money 300   ; POTION
+	money 1250  ; MAX_POTION
+	money 750  ; HYPER_POTION
+	money 350   ; SUPER_POTION
+	money 50   ; POTION
 	money 0     ; BOULDERBADGE
 	money 0     ; CASCADEBADGE
 	money 0     ; THUNDERBADGE
@@ -30,22 +30,22 @@ ItemPrices:
 	money 550   ; ESCAPE_ROPE
 	money 350   ; REPEL
 	money 0     ; OLD_AMBER
-	money 2100  ; FIRE_STONE
-	money 2100  ; THUNDER_STONE
-	money 2100  ; WATER_STONE
-	money 9800  ; HP_UP
-	money 9800  ; PROTEIN
-	money 9800  ; IRON
-	money 9800  ; CARBOS
-	money 9800  ; CALCIUM
-	money 4800  ; RARE_CANDY
-	money 0     ; DOME_FOSSIL
-	money 0     ; HELIX_FOSSIL
+	money 1100  ; FIRE_STONE
+	money 1100  ; THUNDER_STONE
+	money 1100  ; WATER_STONE
+	money 1000  ; HP_UP
+	money 1000  ; PROTEIN
+	money 1000  ; IRON
+	money 1000  ; CARBOS
+	money 1000  ; CALCIUM
+	money 1000  ; RARE_CANDY
+	money 9999  ; DOME_FOSSIL
+	money 9999  ; HELIX_FOSSIL
 	money 0     ; SECRET_KEY
 	money 0     ; XXX
 	money 0     ; BIKE_VOUCHER
 	money 950   ; X_ACCURACY
-	money 2100  ; LEAF_STONE
+	money 1100  ; LEAF_STONE
 	money 0     ; CARD_KEY
 	money 10000 ; NUGGET
 	money 9800  ; XXX PP_UP

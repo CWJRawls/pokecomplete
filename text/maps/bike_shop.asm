@@ -12,16 +12,20 @@ _BikeShopText_1d815::
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Sorry...You just"
+	line "aren't rich"
+	cont "enough to shop"
+	cont "here."
 	prompt
 
 _BikeShopText_1d81f::
-	text "Oh, that's..."
+	text "Damn government"
+	line "handouts!"
 
-	para "A BIKE VOUCHER!"
+	para "I guess we'll"
+	line "have to give you"
+	cont "a bike..."
 
-	para "OK! Here you go!"
 	prompt
 
 _BikeShopText_1d824::
@@ -31,7 +35,7 @@ _BikeShopText_1d824::
 
 _BikeShopComeAgainText::
 	text "Come back again"
-	line "some time!"
+	line "some time..."
 	done
 
 _BikeShopText_1d82f::

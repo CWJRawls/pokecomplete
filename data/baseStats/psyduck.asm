@@ -7,7 +7,7 @@ db 50 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 190 ; catch rate
-db 93 ; base exp yield
+db 79 ; base exp yield
 INCBIN "pic/bmon/psyduck.pic",0,1 ; 55, sprite dimensions
 dw PsyduckPicFront
 dw PsyduckPicBack

@@ -7,7 +7,7 @@ db 65 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
 db 45 ; catch rate
-db 107 ; base exp yield
+db 90 ; base exp yield
 INCBIN "pic/bmon/eevee.pic",0,1 ; 55, sprite dimensions
 dw EeveePicFront
 dw EeveePicBack

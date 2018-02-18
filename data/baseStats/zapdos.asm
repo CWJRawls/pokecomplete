@@ -7,7 +7,7 @@ db 125 ; base special
 db ELECTRIC ; species type 1
 db FLYING ; species type 2
 db 3 ; catch rate
-db 250 ; base exp yield
+db 212 ; base exp yield
 INCBIN "pic/bmon/zapdos.pic",0,1 ; 77, sprite dimensions
 dw ZapdosPicFront
 dw ZapdosPicBack
