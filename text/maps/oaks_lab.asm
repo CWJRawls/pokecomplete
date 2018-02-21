@@ -259,6 +259,11 @@ _OaksLabLeavingText::
 _OaksLabRivalPickingMonText::
 	text "<RIVAL>: I'll take"
 	line "this one, then!"
+	IF DEF(_BLUE)
+	para "OAK: I'll find one"
+	line "that isn't a"
+	cont "DITTO..."
+	ENDC
 	done
 
 _OaksLabRivalReceivedMonText::

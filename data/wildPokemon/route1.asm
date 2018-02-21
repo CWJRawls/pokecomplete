@@ -1,14 +1,18 @@
 Route1Mons:
 	db $19
-	db 5,PIDGEY
-	db 5,RATTATA
+	db 3,PIDGEY
 	db 5,RATTATA
 	db 3,RATTATA
+	db 3,RATTATA
 	db 3,PIDGEY
+	db 4,PIDGEY
 	db 5,PIDGEY
-	db 5,PIDGEY
-	db 6,RATTATA
-	db 6,PIDGEY
-	db 7,PIDGEY
-	;db 3,MEW
+	db 4,RATTATA
+IF DEF(_BLUE)
+	db 3,BULBASAUR
+	db 4,PIDGEY
+ELSE
+	db 3,PIDGEY
+	db 4,RATTATA
+ENDC
 	db $00
